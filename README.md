@@ -1,2 +1,2 @@
 # Caesar Cipher
-# McGill University - COMP 206 Coursework
+McGill University - COMP 206 Coursework
