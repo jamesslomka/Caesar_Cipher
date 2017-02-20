@@ -1,11 +1,9 @@
-nclude <stdio.h>
+#include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 
 int main(int argc, char *argv[])
 {
-
-	//char *fileName = argv[1];
 	//Using tempFile to fgetc number of characters
 	FILE *fileTemp;
 	fileTemp = fopen(argv[1],"r");
